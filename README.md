@@ -56,10 +56,10 @@ java -jar recipes_new.jar
 ```
 ---
 
-### 3. Execute a aplicação
+### 3. Para encerrar a aplicação:
 
 ```bash
-java -jar recipes_new.jar
+ctrl + C
 ```
 ---
 
