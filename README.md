@@ -45,15 +45,21 @@ Siga os passos abaixo:
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-projeto>
+git clone https://github.com/CassioLinhares/BackEnd_dbH2_recipes.git
+```
+---
+
+### 2. Descompacte a pasta do projeto, abra ela no terminal e execute:
+
+```bash
+java -jar recipes_new.jar
 ```
 ---
 
 ### 3. Execute a aplicação
 
 ```bash
-java -jar target/nome-do-arquivo.jar
+java -jar recipes_new.jar
 ```
 ---
 
